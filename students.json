@@ -1,0 +1,20 @@
+{
+    "2002": {
+        "name": "ratan",
+        "department": "cse",
+        "marks": {
+            "Python": 90.0,
+            "Maths": 90.0,
+            "DBMS": 78.0
+        }
+    },
+    "1221": {
+        "name": "yogesh",
+        "department": "cse",
+        "marks": {
+            "Python": 78.0,
+            "Maths": 100.0,
+            "DBMS": 80.0
+        }
+    }
+}
